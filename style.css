@@ -105,12 +105,12 @@ a {
 	right: 10%;
 }
 .position-maintext{
-	width: 40%;
+	width: 47%;
 	text-align: right;
 
 	position: fixed;
 	bottom: 10%;
-	left: 10%;
+	left: 7%;
 }
 
 .position-goodimg1 {
@@ -148,11 +148,11 @@ a {
 
 }
 .position-goodtext2 {
-	width: 60%;
+	width: 54%;
 	text-align: right;
 	position: fixed;
 	bottom: 10%;
-	right: 10%;
+	right: 15%;
 }
 
 .position-badimg1 {
@@ -169,13 +169,13 @@ a {
 	bottom: 0;
 }
 .position-badimg3 {
-	width: 50%;
+	width: 47%;
 	position: fixed;
 	right: 0;
-	top: 15%;
+	top: 14%;
 }
 .position-badtext {
-	width: 40%;
+	width: 52%;
 	text-align: right;
 	position: fixed;
 	bottom: 10%;
